@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/game-store/static/css/main.b3f204da.css",
-    "main.js": "/game-store/static/js/main.8dad6e84.js",
-    "static/media/GTWalsheimPro-Black.woff2": "/game-store/static/media/GTWalsheimPro-Black.3fa5ee7f8e647720d2fb.woff2",
-    "static/media/GTWalsheimPro-Bold.woff2": "/game-store/static/media/GTWalsheimPro-Bold.6b113f6b3bd165884e16.woff2",
-    "static/media/GTWalsheimPro-Thin.woff2": "/game-store/static/media/GTWalsheimPro-Thin.8d12017af90b41aa30d3.woff2",
-    "static/media/GTWalsheimPro-Regular.woff2": "/game-store/static/media/GTWalsheimPro-Regular.6aff6f11d3d29930c9fe.woff2",
-    "static/media/GTWalsheimPro-Light.woff2": "/game-store/static/media/GTWalsheimPro-Light.a929e9e6cee8e3ffe8a2.woff2",
-    "static/media/GTWalsheimPro-UltraBold.woff2": "/game-store/static/media/GTWalsheimPro-UltraBold.a18671e52c3903d28cee.woff2",
-    "static/media/GTWalsheimPro-Medium.woff2": "/game-store/static/media/GTWalsheimPro-Medium.ad6b035f63b8e9185266.woff2",
-    "static/media/GTWalsheimPro-UltraLight.woff2": "/game-store/static/media/GTWalsheimPro-UltraLight.6119da646119c13cafe8.woff2",
-    "index.html": "/game-store/index.html",
-    "main.b3f204da.css.map": "/game-store/static/css/main.b3f204da.css.map",
-    "main.8dad6e84.js.map": "/game-store/static/js/main.8dad6e84.js.map"
+    "main.css": "/static/css/main.7fca423c.css",
+    "main.js": "/static/js/main.cc849f4a.js",
+    "static/media/GTWalsheimPro-Black.woff2": "/static/media/GTWalsheimPro-Black.3fa5ee7f8e647720d2fb.woff2",
+    "static/media/GTWalsheimPro-Bold.woff2": "/static/media/GTWalsheimPro-Bold.6b113f6b3bd165884e16.woff2",
+    "static/media/GTWalsheimPro-Thin.woff2": "/static/media/GTWalsheimPro-Thin.8d12017af90b41aa30d3.woff2",
+    "static/media/GTWalsheimPro-Regular.woff2": "/static/media/GTWalsheimPro-Regular.6aff6f11d3d29930c9fe.woff2",
+    "static/media/GTWalsheimPro-Light.woff2": "/static/media/GTWalsheimPro-Light.a929e9e6cee8e3ffe8a2.woff2",
+    "static/media/GTWalsheimPro-UltraBold.woff2": "/static/media/GTWalsheimPro-UltraBold.a18671e52c3903d28cee.woff2",
+    "static/media/GTWalsheimPro-Medium.woff2": "/static/media/GTWalsheimPro-Medium.ad6b035f63b8e9185266.woff2",
+    "static/media/GTWalsheimPro-UltraLight.woff2": "/static/media/GTWalsheimPro-UltraLight.6119da646119c13cafe8.woff2",
+    "index.html": "/index.html",
+    "main.7fca423c.css.map": "/static/css/main.7fca423c.css.map",
+    "main.cc849f4a.js.map": "/static/js/main.cc849f4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3f204da.css",
-    "static/js/main.8dad6e84.js"
+    "static/css/main.7fca423c.css",
+    "static/js/main.cc849f4a.js"
   ]
 }
